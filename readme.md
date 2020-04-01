@@ -6,7 +6,7 @@
 ## 官网地址
 
 - [https://www.kooteam.com](https://www.kooteam.com)
-- [安装教程](https://www.kooteam.com/view.html?id=5e5893b9c687557cc87e38c3)
+- [安装教程](https://www.kooteam.com/view.html?id=5e5893bdc687557cc87e38c5)
 
 ## 微信咨询
 
